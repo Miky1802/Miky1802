@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Miky1802
+- 👀 I’m interested in E-commerce
+- 🌱 I’m currently learning Html and Css
